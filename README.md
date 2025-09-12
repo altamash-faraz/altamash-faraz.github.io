@@ -22,7 +22,6 @@ A modern, responsive portfolio website showcasing my work as a Python Developer 
 
 ## 📱 Sections
 
-- **Hero**: Introduction with call-to-action buttons
 - **About**: Personal background and highlights
 - **Experience**: Professional timeline with achievements
 - **Projects**: Showcase of key projects with live demos
